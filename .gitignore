@@ -1,3 +1,9 @@
+*.ckpt
+*.bin
+*.pth
+pretrain_model/
+bert_pretrain/
+saved_dict/
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
