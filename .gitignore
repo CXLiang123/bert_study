@@ -1,6 +1,7 @@
 *.ckpt
 *.bin
 *.pth
+THUCNews/saved_dict/
 pretrain_model/
 bert_pretrain/
 saved_dict/
